@@ -43,6 +43,7 @@ let pluto = new Asteroid("fast", "Ice");
 debugger
 console.log(titanic.statement());
 console.log(pluto.statement());
+console.log(pluto);
 
 // There are a number of steps:
 
